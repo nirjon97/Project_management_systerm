@@ -23,3 +23,7 @@ Setup:
 
 		 python manage.py runserver
 
+
+
+You will see the api documentation with the project file. File name is project Management system api documentaion.pdf.
+
